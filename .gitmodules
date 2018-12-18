@@ -1,0 +1,33 @@
+[submodule "Algorithms_and_Data_Structures"]
+	path = Algorithms_and_Data_Structures
+	url = https://github.com/jbo-zhang/Algorithms_and_Data_Structures.git
+[submodule "Android"]
+	path = Android
+	url = https://github.com/jbo-zhang/Android.git
+[submodule "Audio_And_Video"]
+	path = Audio_And_Video
+	url = https://github.com/jbo-zhang/Audio_And_Video.git
+[submodule "Compiler_Principles"]
+	path = Compiler_Principles
+	url = https://github.com/jbo-zhang/Compiler_Principles.git
+[submodule "Design_Pattern"]
+	path = Design_Pattern
+	url = https://github.com/jbo-zhang/Design_Pattern.git
+[submodule "GUI"]
+	path = GUI
+	url = https://github.com/jbo-zhang/GUI.git
+[submodule "Java"]
+	path = Java
+	url = https://github.com/jbo-zhang/Java.git
+[submodule "Network"]
+	path = Network
+	url = https://github.com/jbo-zhang/Network.git
+[submodule "Open_Source_Libs"]
+	path = Open_Source_Libs
+	url = https://github.com/jbo-zhang/Open_Source_Libs.git
+[submodule "Operating_System"]
+	path = Operating_System
+	url = https://github.com/jbo-zhang/Operating_System.git
+[submodule "Tools_Use"]
+	path = Tools_Use
+	url = https://github.com/jbo-zhang/Tools_Use.git
